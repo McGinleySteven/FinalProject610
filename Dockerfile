@@ -5,8 +5,10 @@ RUN apt update && apt install -y nginx hugo
 WORKDIR /build
 COPY hugo/ ./
 
-RUN cd hugo && hugo
+RUN hugo
 
-RUN cp -r public/* /var/www
+RUN cp -r public/* /var/www/html
 
-ENTRYPOINT ["/usr/bin/nginx"]
+EXPOSE 80
+
+ENTRYPOINT ["/usr/sbin/nginx", "-g", "daemon off;"]

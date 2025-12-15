@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  hugo-nginx:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflared
+    command: tunnel run
+    restart: unless-stopped
+    depends_on:
+      - hugo-nginx
+    volumes:
+      - ./cloudflared:/etc/cloudflared
