@@ -2,9 +2,9 @@ FROM ubuntu:25.04
 
 RUN apt update && apt install -y nginx hugo
 
-COPY resume/ ./
+COPY hugo/ ./
 
-RUN cd resume && hugo
+RUN cd hugo && hugo
 
 RUN cp -r public/* /var/www
 
