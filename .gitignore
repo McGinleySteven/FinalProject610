@@ -363,8 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 .hugo_build.lock
-node_modules/
-public/
-resources/
-
-themes/
+/hugo/node_modules/
+/hugo/public/
+/hugo/resources/
