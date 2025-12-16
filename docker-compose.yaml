@@ -15,5 +15,5 @@ services:
     restart: unless-stopped
     depends_on:
       - hugo-nginx
-    volumes:
-      - ./cloudflared:/etc/cloudflared
+    environment:
+      - "TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}"
