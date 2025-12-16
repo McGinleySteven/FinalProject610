@@ -366,3 +366,4 @@ FodyWeavers.xsd
 /hugo/node_modules/
 /hugo/public/
 /hugo/resources/
+.env

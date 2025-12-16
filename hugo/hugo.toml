@@ -1,4 +1,4 @@
 baseURL = 'https://stevenmcginley.com/'
 languageCode = 'en-us'
-title = 'Steve McGinley'
-theme = 'ananke'
+title = 'Steven McGinley'
+theme = 'typo'
