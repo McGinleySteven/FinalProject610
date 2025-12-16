@@ -1,9 +1,3 @@
-[submodule "hugo/themes/ananke"]
-	path = hugo/themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "hugo/themes/NightFolio"]
-	path = hugo/themes/NightFolio
-	url = https://github.com/cx48/NightFolio.git
 [submodule "hugo/themes/typo"]
 	path = hugo/themes/typo
 	url = https://github.com/tomfran/typo.git
