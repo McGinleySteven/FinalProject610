@@ -82,7 +82,7 @@ draft = false
 
 ---
 
-## Leadership Experience & Awards
+### Leadership Experience and Awards
 
 - **Honors Program** — Fall 2012 to Spring 2015  
 - **President**, National Honor Society — Fall 2013 to Spring 2015  
