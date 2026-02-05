@@ -4,59 +4,81 @@ date = 2025-12-15T07:07:07+01:00
 draft = false
 +++
 
-## Resume
+# Steven McGinley
 
-**Home Address:** Morristown, NJ  
-**Email:** s.mcginley@ieee.org  
+**Location:** 63 James St, Morristown, NJ 07960  
+**Email:** [StevenRyanMcGinley@gmail.com](mailto:StevenRyanMcGinley@gmail.com) | **Phone:** +1 845 366 0403  
+**Website:** [StevenMcGinley.com](https://StevenMcGinley.com)
+
+---
+
+## Work Experience & Volunteer Work
+
+### **MGA Member Operations**
+**IEEE** – *Piscataway, NJ* | August 2025 – **Current**
+* Identified bottlenecks in membership processing workflows and implemented procedural changes that are reducing processing times.
+* Executed critical operational workflows including membership batch processing, arrears management, and database audits to maintain data integrity.
+* Modernized HKN operational workflows to reflect recent programmatic changes, eliminating outdated steps and reducing processing time for chapter inductions.
+
+### **IT Support Junior Technician**
+**SR Specialties Solutions** – *Port St. Lucie, FL* | June 2023 – June 2025
+* Aided users with password resets, printer configuration, and email issues.
+* Traveled to client sites for computer setups, cable runs, and general diagnostics.
+* Installed standard OS and applications; performed updates and patching for all systems.
+
+### **Estate Manager / IT Solutions**
+**Self Employed (Part-Time)** – *Oldwick, NJ* | April 2018 – November 2022
+* Installed Lutron systems, custom Wi-Fi networks, security cameras, and whole-home sound systems.
+* Managed the flow of guests and vendors on estate premises.
+* Maintained office functionality including printing services, LAN, and Mesh networks.
+
+### **Assistant Clubhouse Manager / Bar Manager**
+**Hamilton Farm Golf Club** – *Gladstone, NJ* | August 2018 – June 2022
+* Managed procurement for all beverages (wine, beer, and spirits).
+* Increased wine inventory value by 50% while maintaining budget compliance.
+* Integrated menu and order placement to tablets and trained staff on usage.
+
+### **Volunteer**
+**Information Technology Disaster Relief Center (ITDRC)** | September 2023 – **Current**
+* Set up and maintained mass charging stations and community Wi-Fi hotspots to provide critical lifelines for survivors.
+* Coordinated on-ground deployment of tech assets, liaising with local emergency management and FEMA to prioritize high-need areas.
+* Executed rapid deployment of self-contained response vehicles, including driving operations and on-site technical setup of power and connectivity.
 
 ---
 
 ## Education
-**New Jersey Institute of Technology (NJIT)**  
-**M.B.A. Candidate** *Starting January 2026*  
 
-**State University of New York, College of Technology at Delhi**  
-**B.B.A. in Hotel and Resort Management** *May 2015*
+* **Master of Business Administration (MBA)** New Jersey Institute of Technology (Online) | **Expected May 2027**
+* **Bachelors of Business Administration: Hotel and Resort Management** State University of New York, College of Technology at Delhi | **May 2015**
 
 ---
 
-## Work Experience / Volunteer
+## Technical Skills & Competencies
 
-### Member, Global Operations and Processing  
-**IEEE International**  
-*August 18, 2025 - Present*  
-- Support global operations initiatives across IEEE's technical societies and conferences  
-- Coordinate workflows for membership processing, publications, and digital resource distribution  
-- Collaborate with international teams to streamline operational efficiency and ensure compliance with global standards  
-- Assist in implementing process improvements and digital transformation projects to enhance member experience  
-
----
-
-### Work Related Injury (Now Cleared)  
-*June 2024 - May 2025*
+| **Systems & Software** | **Operational Skills** |
+| :--- | :--- |
+| Windows (XP–11), macOS, Basic Linux | Data Integrity & Auditing |
+| Microsoft Office 365 & Excel/Macros | Regulatory Compliance |
+| Google Sheets | Root Cause Analysis |
+| Oracle / Siebel CRM | Stakeholder Relations |
+| Network Setup (LAN/Mesh/Wi-Fi) | Digital Content & Communications |
 
 ---
 
-### Volunteer Information Technology Disaster Relief Center (ITDRC)  
-**National/International**  
-*September 2023 Present*  
-- Provided cyber-attack and natural disaster relief support  
-- Deployed network infrastructure, created topology diagrams, and mapped fiber (MDF/IDF)  
-- Reimaged infected machines, inventoried assets, and assisted communities in need  
+## Certifications
+
+* **CompTIA A+ Certified** (2009)
+* **AWR-418 TEEX** Cyber Security Fundamentals
+* **FEMA Courses:** 100, 200, 700, 800
 
 ---
 
-### Yacht Engineer / Crew  
-**Allied Yacht Management East Coast/FL**  
-*June 2023 - June 2024*  
-- Monitored yacht systems/navigation, VSAT, VHF radio, generators, and local logs  
-- Troubleshot and repaired electrical systems and PLC-controlled devices  
-- Installed and updated marine-specific software for navigation, diagnostics, and weather  
+## Leadership Experience & Awards
 
----
-
-### Estate Manager / IT Solutions  
-**Self-Employed - Oldwick, NJ**  
-*April 2018 - November 2022*  
-- Installed Lutron, custom Wi-Fi networks, security cameras, and whole-home sound systems  
-- Managed guest/vendor flow on estate premises  
+* **Baccalaureate Student of the Year** (Spring 2015)
+* **President**, National Honor Society (Fall 2012 – Spring 2015)
+* **President**, International Food Service Executive Association (Fall 2013 – Fall 2014)
+* **Treasurer**, Association of Travel Executives (Fall 2012 – Spring 2015)
+* **Sustainability Advocate** (Spring 2013 – Spring 2015)
+* **Student Leadership Award** (Spring 2013)
+* **Who’s Who Among Students** (Fall 2012)
